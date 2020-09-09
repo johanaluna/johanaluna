@@ -17,8 +17,8 @@
         <img height="64px" src="https://www.iconfinder.com/data/icons/flat-design-database-set-3/24/sql-128.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span>Atom</span><br><br><br>
+        <img height="64px" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
