@@ -3,44 +3,18 @@
 
 - I am Data Science 
 
-
-```julia
-module main
-
-aboutMe :: struct {
-  pronouns :: string[];
-  languages :: string[];
-  hobbies :: string[];
-  funFact :: string;
-}
-
-main :: func(): void {
-  ethan :: aboutMe = {
-    pronouns: ["He", "Him"],
-    languages: ["C", "C#", "Java", "Python"],
-    hobbies: ["Coding", "Gaming", "Talking"],
-    funFact: "The first computer virus was created in 1983!"
-  };
-
-  println "Pronouns: ${ethan.pronouns}";
-  println "Languages I Know: ${ethan.languages}";
-  println "My Hobbies: ${ethan.hobbies}";
-  println "Fun Fact: ${ethan.funFact}";
-}
-```
-
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <span>SQL</span><br><br><br>
+        <img height="64px" src="https://www.iconfinder.com/data/icons/flat-design-database-set-3/24/sql-128.png">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
@@ -75,7 +49,7 @@ main :: func(): void {
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=munific&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=johanaluna&show_icons=true&hide_border=true)
 
 # 𝗪𝗵𝗮𝘁 𝘄𝗶𝗹𝗹 𝗶 𝗱𝗼 𝘁𝗵𝗶𝘀 𝘄𝗲𝗲𝗸
 I have achieved:
