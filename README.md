@@ -1,5 +1,5 @@
 
 # Hello, Im Johana!
 
-- I am Data Science 
+- I am Data Scientist
 
