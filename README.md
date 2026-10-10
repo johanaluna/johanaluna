@@ -1,5 +1,6 @@
 
-# Hello, Im Johana!
+# Johana Luna
 
-- I am Data Scientist
+- Senior Product Manager, AI & Enterprise Platforms
+
 
